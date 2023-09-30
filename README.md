@@ -1,6 +1,6 @@
-# Phpfetcher - a simple web crawler framework    
+!#Phpfetcher - a simple web crawler framework    
 
-## 重要修改记录 - Important Improvements Log   
+*  重要修改记录 - Important Improvements Log   
 2017-03-13　支持形如“//xxx.com/abc/def”的超链接    
 　　　　　　Support hyperlinks like "//xxx.com/abc/def"     
 2016-09-08　支持HTTPS    
@@ -12,7 +12,7 @@
 2015-10-26　可以爬取网站内链（如"/entry"的超链接）。    
 　　　　　　Able to crawl website internal hyper links(say "/entry").      
 
-## 中文说明(Scroll Down to See The English Description)    
+*# 中文说明(Scroll Down to See The English Description)    
 一个PHP爬虫框架   
 框架的起源请参见：http://blog.reetsee.com/archives/366        
 PHP需要启用curl扩展以及mbstring扩展         
@@ -325,3 +325,4 @@ I hope you enjoy using Phpfetcher!
 ## TODO         
 1. 支持配置爬虫使用的HTTP头以及Cookies。 To support configuring the HTTP Headers and Cookies for the crawlers.    
 2. 支持协程/多线程调度爬虫。 To support coroutine/multi-thread crawlers.     
+ 
